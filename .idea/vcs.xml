@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/30DaysOfFlutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cocktail-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flutter-Gesturedetect-inkwell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterEssentialHindi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterRazorpay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterShoppingCart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterWhatsAppClone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Food-Ordering-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TeslaClone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WaxApplication_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bloc_preference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boxtout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coronavirus_rest_api_flutter_course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firebase_authentication_email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firebase_user_avatar_flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter-bloc-updated-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_ecommerce_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_shopping_cart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_testing_tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google_places_flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/journal_app_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/layout-demo-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile-vendor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiple-counters-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_catalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rn-carsapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rn-first-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rn-first-app/TeslaClone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rn-login-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todoapp" vcs="Git" />
+  </component>
+</project>
